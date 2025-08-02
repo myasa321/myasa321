@@ -28,7 +28,7 @@ Here are some of the tools I work with: <br/>
 ## Let's Connect!
 Feel free to reach out — I’m always open to collaborating, chatting, or helping out.<br/>
 
-💻 LinkedIn: [**linkedin.com/in/medha-yasa-824647325**](linkedin.com/in/medha-yasa) <br/>
+💻 LinkedIn: [**linkedin.com/in/medha-yasa**](linkedin.com/in/medha-yasa) <br/>
 
 📮 Email: medha.yasa@gmail.com <br/>
 <!--
